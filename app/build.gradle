@@ -42,5 +42,5 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'com.loopj.android:android-async-http:1.4.9'
-    implementation 'com.github.ehsanbkh7:testplugin:Tag'
+    implementation 'com.github.ehsanbkh7:testplugin:0.0.2'
 }
