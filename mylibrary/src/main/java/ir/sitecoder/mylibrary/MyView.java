@@ -29,6 +29,7 @@ public class MyView extends LinearLayout {
             login();
         } catch (JSONException e) {
             e.printStackTrace();
+
         }
     }
     private void initialize(Context context){
